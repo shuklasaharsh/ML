@@ -4,7 +4,7 @@
 3. Page Reccomender using Wikipedia Text of celebrities
 4. Music Reccomender system - (Yet to be completed) //To do
 
-I used this to keep track of my progress online while learning and to not lose any data.
+I use this to keep track of my progress online while learning and to not lose any data.
 Kindly use this only for learning purposes.
 
 ## This is only for Educational Purposes.
